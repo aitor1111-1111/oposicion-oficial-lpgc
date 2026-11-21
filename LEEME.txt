@@ -1,0 +1,17 @@
+MI OPOSICIÓN – OFICIAL POLICÍA LOCAL (ÍNDICE 2026)
+
+CONTENIDO
+- index.html, app.js, manifest.webmanifest, sw.js e icon.svg.
+- Temario organizado siguiendo el índice 2026 recuperado de la aplicación anterior.
+
+INSTALACIÓN EN ANDROID
+1. Descomprime este ZIP en un ordenador o súbelo a un alojamiento HTTPS estático (por ejemplo, GitHub Pages).
+2. Abre la dirección HTTPS en Chrome desde el móvil.
+3. Menú ⋮ > Instalar aplicación o Añadir a pantalla de inicio.
+4. Abre el icono instalado.
+
+IMPORTANTE
+- Para instalar como aplicación PWA y utilizar el modo sin conexión inicial, los archivos deben servirse desde HTTPS o localhost. Abrir index.html directamente desde el ZIP permite probar parte de la app, pero no instala la PWA.
+- Los datos y PDFs se guardan localmente en el navegador/dispositivo mediante IndexedDB. No hay sincronización en la nube entre móvil y ordenador en esta versión.
+- Usa “Exportar copia” periódicamente y guarda el JSON en un lugar seguro.
+- El índice de Específica Particular queda reservado porque el índice facilitado no incluye temas municipales en esa sección.
