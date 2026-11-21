@@ -1,2 +1,0 @@
-# oposicion-oficial-lpgc
-Temario 
